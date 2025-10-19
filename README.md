@@ -31,3 +31,5 @@ And you will then need to add "custom/weather" to your waybar module.
 ]
 ```
 ^ As an example
+
+![alt text](image.png)
