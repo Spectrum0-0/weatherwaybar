@@ -13,7 +13,7 @@ As an example, mine is located in .config/waybar/scripts/weather.sh. So I would 
 
 In your config.jsonc you will need to add the following to the config
 
-```jsonc
+```jsonc 
 "custom/weather": {
 	"format": "{}",
 	"exec": "~/.config/waybar/scripts/weather.sh", // Change to your shell script directory.
