@@ -27,7 +27,7 @@ And you will then need to add "custom/weather" to your waybar module.
 ```jsonc
 "modules-left": [
     "hyprland/workspaces",
-	"custom/weather"
+	  "custom/weather"
 ]
 ```
 ^ As an example
